@@ -9,6 +9,9 @@
    3. L2
    4. L1
 2. OSI Networking Model
+   1. 계념
+   2. L7~L1
+   3. 캡슐화
 
 ## TCP/IP Networking Model(OLD Ver.)
 
